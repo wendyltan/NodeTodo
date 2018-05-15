@@ -1,0 +1,29 @@
+{
+  "name": "node-todo",
+  "version": "0.0.0",
+  "description": "Simple todo application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wendyltan/NodeTodo.git"
+  },
+  "keywords": [
+    "todo-list"
+  ],
+  "author": "wendyltanpcy",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/wendyltan/NodeTodo/issues"
+  },
+  "homepage": "https://github.com/wendyltan/NodeTodo#readme",
+  "dependencies": {
+    "angular": "^1.7.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.1",
+    "morgan": "^1.9.0"
+  }
+}
